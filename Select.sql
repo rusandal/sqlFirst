@@ -1,0 +1,1 @@
+SELECT name, surname FROM PERSON Where city_of_living='MOSCOW'
